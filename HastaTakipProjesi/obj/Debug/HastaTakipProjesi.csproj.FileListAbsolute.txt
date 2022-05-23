@@ -1,0 +1,10 @@
+D:\CSHARP\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.exe.config
+D:\CSHARP\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.exe
+D:\CSHARP\HastaTakipProjesi\bin\Debug\HastaTakipProjesi.pdb
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.AssemblyReference.cache
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.Form1.resources
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.Properties.Resources.resources
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.GenerateResource.cache
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.csproj.CoreCompileInputs.cache
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.exe
+D:\CSHARP\HastaTakipProjesi\obj\Debug\HastaTakipProjesi.pdb
